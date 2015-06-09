@@ -7,7 +7,9 @@
 	"repository": { "type": "git", "url": "git://github.com/sjonnet19/mocha-cobertura-reporter.git" }, 
 	"main": "./index", 
 	"dependencies": {
-	  "jade": "0.x.x",
+	  "jade": "0.x.x"
+	},
+	"peerDependencies": {
 	  "mocha": "1.x.x"
 	},
 	"main": "./index",
