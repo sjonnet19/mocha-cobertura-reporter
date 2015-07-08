@@ -10,7 +10,7 @@
 	  "jade": "1.x.x"
 	},
 	"peerDependencies": {
-	  "mocha": "3.x.x"
+	  "mocha": "2.x.x"
 	},
 	"main": "./index",
 	"bin": {
